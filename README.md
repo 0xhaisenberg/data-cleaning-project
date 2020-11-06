@@ -1,5 +1,3 @@
-# data-cleaning-project
-
 # Getting and Cleaning Data
 
 ## Contents 
